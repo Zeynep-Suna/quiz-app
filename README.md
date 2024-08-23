@@ -1,5 +1,5 @@
 # Quiz App
-    Quiz App, bilgi yarışması uygulaması tasarlandı.
+Quiz App, bilgi yarışması oluşturuldu.
 
 # Kullanılan Teknolojiler
 - HTML
@@ -11,4 +11,3 @@
 
 # GIF
 ![](images/quiz_app_gif.gif)
-
